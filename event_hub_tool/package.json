@@ -1,0 +1,15 @@
+{
+  "name": "es1",
+  "version": "1.0.0",
+  "description": "EventHub client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Mastropasqua",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^2.1.1",
+    "uuid": "^3.3.3"
+  }
+}
