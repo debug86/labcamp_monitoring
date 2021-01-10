@@ -1,0 +1,6 @@
+modules:
+  http_2xx:
+    prober: http
+    http:
+      tls_config:
+        insecure_skip_verify: true
